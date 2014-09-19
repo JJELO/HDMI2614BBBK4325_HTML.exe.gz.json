@@ -3,3 +3,4 @@ Lennon: Lead Developer/Project Manager
 Jaspar: Head of Research and Playtesting
 Eric: Art Director
 Jake: Resource Manager
+All: Character Design/Level Design/Playtesting
