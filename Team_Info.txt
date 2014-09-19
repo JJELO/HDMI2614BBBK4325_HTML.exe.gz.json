@@ -3,9 +3,3 @@ Lennon Wotzke: Lead Developer
 Jaspar Irwin: Head of Research and Playtesting
 Eric Cermak: Art Director
 Jake Smith: Resource Manager
-
-Designers: Entire Team
-PLaytesters: Entire Team
-Developers: LENNON WOTZKE, 
-Researcher: JASPAR IRWIN, 
-Artists: ERIC CERMAK, 
