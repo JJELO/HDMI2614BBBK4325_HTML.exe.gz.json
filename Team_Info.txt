@@ -1,5 +1,5 @@
-Owen Quiring: Head of Design
-Lennon Wotzke: Lead Developer/Project Manager
-Jaspar Irwin: Head of Research and Playtesting
-Eric Cermak: Art Director
-Jake Smith: Resource Manager
+Owen: Head of Design
+Lennon: Lead Developer/Project Manager
+Jaspar: Head of Research and Playtesting
+Eric: Art Director
+Jake: Resource Manager
