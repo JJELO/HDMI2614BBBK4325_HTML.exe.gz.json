@@ -1,0 +1,1 @@
+BisMyth client currently requires python 2.7.8 and pygame for python 2.7.8 to run.
