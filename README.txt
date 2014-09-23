@@ -1,1 +1,2 @@
-BisMyth client currently requires python 2.7.8 and pygame for python 2.7.8 to run.
+You need python 2.7.8. I repeat, you will need to install python 2.7.8 and use it from now on. To run the game you will also need to install pygame from here http://pygame.org/ftp/pygame-1.9.2a0.win32-py2.7.msi
+That download is for windows, if you need it for another os let me know.
