@@ -1,5 +1,5 @@
-chars = {}
+char_spr = {}
 
-chars["yogso"] = {}
+char_spr["yogso"] = {}
 
-chars["yogso"]["still"] = "art\\shadow\\yogso.png"
+char_spr["yogso"]["still"] = "art\\shadow\\yogso.png"
