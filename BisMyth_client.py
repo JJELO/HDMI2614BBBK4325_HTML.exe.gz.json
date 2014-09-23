@@ -1,6 +1,10 @@
 from pygame import *
 import os
 import time
+import lib_client.classes as clas
+import lib_client.client_resources as res
+
+ch_yogso = clas.Character(res.chars["yogso"])
 
 bg = Surface((512,512)) #this is the background
 screen = display.set_mode((512,512), DOUBLEBUF) #this is the screen
