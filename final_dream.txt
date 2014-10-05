@@ -1,0 +1,16 @@
+client and server packages will both be available
+if server binary is detected, client_launcher will have button to run server_launcher
+
+to begin a game from client_launcher, go to the server list, which contains local servers and saved remote servers
+either choose one of those, add new, or direct connect, like minecraft
+
+gamemode is a class that the game accesses for rules
+server imports any gamemodes it can find from gamemodes folder
+server provides gamemode info for server-side enabled gamemodes
+choosing a gamemode or a game still in lobby not full will run client_main with the server address and gamemode name as parameters
+client_main will download gamemode from server
+player enters lobby
+players will be assigned to teams
+players will go to character selection
+race first, then characters
+players enter main game
